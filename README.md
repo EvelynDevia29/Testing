@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨I’m a Systems Engineer, wife, mother and a woman eager to learn every day. Here begins my journey to become a self-taught web developer. But first I must tell you that I was in a MinTic bootcamp for six months with the Universidad Industrial de Santander where I learned basic programming in Python and Java, in addition to working for three months in a team until I deployed a web application.
+✨Test automation course with Playwright
 
-Now my purpose is to become a web developer and that is why I decided to start with the Front-End HTML and CSS were one of my first courses.✨
+I will be doing this test automation course with Playwriteght in order to have more knowledge of QATesting. I invite you to use this new framework✨
 
 __Technologies and tools__
 
